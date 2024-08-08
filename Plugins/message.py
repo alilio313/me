@@ -61,7 +61,7 @@ async def on_msg(c: Client, m: Message):
                         reply_markup = InlineKeyboardMarkup([])
                 reply_markup.inline_keyboard.append(
                         [
-                            InlineKeyboardButton("Python Projects 🐍", url="https://t.me/Y88F8")
+                            InlineKeyboardButton("المطور", url="https://t.me/n_u_7")
                         ]
                     )
                 return await m.reply(
