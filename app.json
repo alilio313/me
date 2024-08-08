@@ -10,7 +10,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/alilio313/ali",
+  "repository": "https://github.com/alilio313/me",
   "env": {
     "ENV": {
       "description": "لا تغيــرهــا",
@@ -21,12 +21,12 @@
       "value": ""
     },
     "API_ID": {
-        "description": "ايدي حسابك",
+        "description": "ايبي ايدي حسابك",
         "value": ""
     },
     "API_HASH": {
-        "description": "لا تغيــرهــا",
-        "value": "aff5c1ca99cc6c1c4177ca5a362cca1a"
+        "description": "ايبي هاش",
+        "value": ""
     }
   },
     "buildpacks": [
