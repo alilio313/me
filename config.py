@@ -16,5 +16,5 @@ WELCOME_TEXT = (
     "🤷‍♂️ How to use this bot?\n"
     "  -| In a private/group chat send : nft + @username\n"
     "  -| In inline mode : `@{} nerd`\n\n"
-    "✨ Powered by: **@Y88F8**"
+    "✨ Powered by: **@N_U_7**"
     )
